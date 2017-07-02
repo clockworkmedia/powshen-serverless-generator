@@ -1,4 +1,4 @@
-# Serverless mysql
+# Powshen Serverless Generator
 
 Getting Started
 ===
