@@ -1,0 +1,8 @@
+{
+    "name": "users",
+    "functions": {
+        "post": {
+            "handler": "handler.post"
+        }
+    }
+}

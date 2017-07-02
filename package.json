@@ -1,17 +1,17 @@
 {
-  "name": "post-to-mysql",
-  "version": "1.0.0",
-  "description": "",
-  "main": "handler.js",
-  "dependencies": {
-    "express": "^4.10.6",
-    "mysql": "^2.5.4"
-  },
-  "devDependencies": {},
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "Elvis Magagula <kopahead@gmail.com> (https://github.com/ElvisMagagula)",
-  "license": "MIT"
+    "name": "powshen-serverless",
+    "version": "1.0.0",
+    "description": "",
+    "main": "handler.js",
+    "dependencies": {
+        "express": "^4.10.6",
+        "mysql": "^2.5.4"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Elvis Magagula <kopahead@gmail.com> (https://github.com/ElvisMagagula)",
+    "license": "MIT"
 }
 
